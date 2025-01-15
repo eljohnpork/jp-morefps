@@ -14,7 +14,7 @@ Dit project biedt een lichtgewicht FPS-optimalisatiescript voor FiveM-servers, w
    - Download deze repository of kopieer de scripts naar je server resource-map.
 
 2. **Voeg de Scripts toe aan een Nieuwe Resource Map:**
-   - Maak een nieuwe map aan in je `resources` directory (bijvoorbeeld `fps_boost`).
+   - Maak een nieuwe map aan in je `resources` directory (bijvoorbeeld `jp-morefps`).
    - Plaats de volgende bestanden in de map:
      - `client.lua`
      - `server.lua`
